@@ -1,0 +1,94 @@
+.col-xs-4 {
+    border:1px solid black;
+    height: 100px;
+}
+
+.static {position: static;}
+
+.pepito:hover{
+    background-color:orange;
+}
+
+.second:hover{
+    background-color:red;
+}
+
+.third:hover{
+    background-color:blue;
+}
+
+.fourth:hover{
+    background-color:yellow;
+}
+
+.five:hover{
+    background-color:rgb(200,159,238);
+}
+
+.six:hover{
+    background-color:grey;
+}
+
+.seven:hover{
+    background-color:rgb(236,125,255);
+}
+
+.ocho:hover{
+    background-color:rgb(201,255,215);
+}
+
+.nine:hover{
+    background-color:rgb(201,199,225);
+}
+
+
+
+
+
+
+.pepito1{
+    background-color:rgb(200,159,238);
+}
+
+.second1{
+    background-color:yellow;
+}
+
+.third1{
+    background-color:grey;
+}
+
+.fourth1{
+    background-color:red;
+}
+
+.five1{
+    background-color:orange;
+}
+
+.six1{
+    background-color:blue;
+}
+
+.seven1{
+    background-color:rgb(201,199,225);
+}
+
+.ocho1{
+    background-color:rgb(236,222,165);
+}
+
+.nine1{
+    background-color:rgb(236,125,255);
+}
+
+
+
+
+
+.centrar{
+    left: 50;
+    top: 50;
+    transform: translate(90%, 90%);
+    -webkit-transform: translate(0%, 60%);
+}
